@@ -1,0 +1,224 @@
+html {
+    background-color: white;
+    font-family: raleway;
+}
+
+.container {
+    width: 1340px;
+    height: 2000px;
+    margin: -10px auto;
+    overflow: hidden;
+    padding: -50px;
+    background-image: url(img/Screen%20Shot%202015-07-06%20at%207.51.46%20PM.jpg);
+    background-repeat: repeat;
+    background-position: center;
+    
+
+}
+
+.nav {
+    height: 50px;
+    width: 1340px;
+    margin: 0 auto;
+    overflow: hidden;
+    text-shadow: 2px 1px 1px darkgrey;
+    background-color: ;
+    background-image: url(img/Screen%20Shot%202015-07-06%20at%206.05.25%20PM.jpg);
+    background-size: ;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: fixed;
+      border-bottom: 10px solid darkgreen;
+  
+  
+}
+
+.title {
+    float: left;
+    color: aliceblue;
+    padding-left: 20px;
+  margin-top: 15px;
+    text-shadow: 2px 1px 1px black;
+}
+
+.a {
+    float: right;
+    
+}
+
+.a-navbar {
+    text-decoration: none;
+    color: palegoldenrod;
+    margin-top: 10px 100px;
+     padding: 15px;
+}
+
+.navbar {
+    list-style-type: none;
+    float: left;
+
+   
+    text-shadow: 2px 1px 1px;
+    
+}
+
+.middle {
+    width: 1350px;
+    height: 405px;
+    border-bottom: 10px solid darkgreen;
+    background-image: url('../Week.5/img/NEWBACKGROUND.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+    
+   
+}
+
+.midwords {
+    text-align: center;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+
+.big {
+    font-size: 55px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    color: darkgray;
+    padding-top: 50px;
+}
+
+.sub {
+    font-size: 30px;
+    text-shadow: 1px 1px 1px black;
+    color: darkgray;
+    margin: 40px;
+}
+
+.click {
+    border: 1px solid gainsboro;
+    width: 200px;
+    margin: 0px auto;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: gainsboro;
+    box-shadow: 0px 0px 10px;
+    color: #000;
+}
+
+.middle2 {
+    width: 1025px;
+    height: 200px;
+    background-color:white;
+    margin: 40px auto;
+    box-shadow: 0px 0px 10px;
+    padding-top: 20px;
+}
+
+.pic1 {
+    float: left;
+    margin: 30px;
+    width: 130px;
+    height: 130px;
+}
+
+.para {
+    overflow: hidden;
+    padding: 30px;
+    font-size: 14px;
+}
+
+
+.important-stuff {
+    width: 1025px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 20px;
+}
+
+.middle3 {
+    width: 1025px;
+    height: 350px;
+    background-color: palegoldenrod;
+    overflow: hidden;
+    margin: 0px auto;
+}
+
+.boxinfo {height: 120px;
+    width: 120px;
+    border: 1px solid white;
+    margin: 10px auto;
+    background-color: white;
+    box-shadow: 0px 0px 30px darkolivegreen;
+}
+
+.imgwords {
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin: 50px;
+    margin-right: 90px;
+    font-size: 10px;
+    text-align: center;
+}
+
+.middle-4 {
+    width: 1025px;
+    height: 250px;
+    background-color: beige;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.boxx {
+    background-color: coral;
+    margin-right: 170px;
+    margin-top: 50px;
+    width: 250px;
+    height: 130px;
+    float: right;
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 0px 0px 20px grey;
+}
+
+.words {
+    padding-top: 80px;
+}
+
+.last {
+    width: 1025px;
+    height: 300px;
+    background-color: palegreen;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.last-words {
+    margin: 50px 20px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    overflow: hidden;
+    float: left;
+}
+
+.blah {
+    width: 550px;
+    margin: 20px auto;
+}
+
+.last-button {
+    border: 1px solid gainsboro;
+    width: 150px;
+    margin-right: 90px;
+    text-decoration: none;
+    color: lightslategray;
+    text-align: center;
+    padding: 10px 0px;
+    background-color: white;
+    float: right;
+    box-shadow: 0px 0px 40px darkslategrey;
+}
+
